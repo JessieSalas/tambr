@@ -1,0 +1,26 @@
+1984.txt
+-----------------------------------------
+Topic #0:
+war,party,past,power,oceania,world,necessary,eurasia,society,doublethink
+MOST SIMILAR SYNTH PATCH
+(0.39282935562485194, 'power')
+
+Topic #1:
+say bells,bells st,st clement,oranges,charrington,lemons say
+MOST SIMILAR SYNTH PATCH
+(0.19026177581829426, 'chime')
+
+Topic #2:
+winston,pain,said brien,fingers,know,eyes,face,remember
+MOST SIMILAR SYNTH PATCH
+(0.23892991595008675, 'scream')
+
+Topic #3:
+old man,don,ll,parsons,room,said winston
+MOST SIMILAR SYNTH PATCH
+(0.17388093056009896, 'dark')
+
+Topic #4:
+winston,girl,did,party,thought,time,like,big,face,moment
+MOST SIMILAR SYNTH PATCH
+(0.22380574200986619, 'talking')

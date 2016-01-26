@@ -1,0 +1,26 @@
+alice.txt
+-----------------------------------------
+Topic #0:
+mock turtle,said mock,said gryphon,sea,said alice
+MOST SIMILAR SYNTH PATCH
+(0.1628844982107216, 'air')
+
+Topic #1:
+march hare,said hatter,alice,tea,said dormouse
+MOST SIMILAR SYNTH PATCH
+0.13613966346508313, 'harp')
+
+Topic #2:
+alice,mouse,little,said caterpillar,oh,rabbit,door
+MOST SIMILAR SYNTH PATCH
+(0.25520438555182667, 'brown')
+
+Topic #3:
+queen,said king,jury,white rabbit,king said,court
+MOST SIMILAR SYNTH PATCH
+(0.24402874547291681, 'pharaoh')
+
+Topic #4:
+alice,said duchess,said cat,mad,like,baby,queen
+MOST SIMILAR SYNTH PATCH
+(0.23069251246560665, 'monster')

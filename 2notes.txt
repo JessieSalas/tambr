@@ -1,0 +1,21 @@
+Need to know how long the song will be
+    some sort of function of how long the book is
+
+Will separate it into sections.
+For example, 1984 will have 3 songs since there are 3 parts
+
+Want to capture the conflicing alternating chapters of grapes of wrath
+
+Those are subtle things that matter
+
+quiter is sadder
+slower is sadder
+lower is sadder
+
+more polarity is more simultaneous notes, larger absolute value 
+
+more rhythmic change is happier
+
+lognormal
+
+There is a ranking for intervals dissonance is sadness

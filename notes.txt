@@ -1,0 +1,88 @@
+"Specifcally we focus on novels and generate music that captures the change in the distribution of emotion words"
+
+**DIFFERENTIATORS**
+Use more instruments other than just piano
+    Full orchestra?
+    Electronic synth?
+
+    Would be taken more seriously if use full orchestra maybe?
+    Is orchestra more legit?
+    Piano is simple and versatile, that's why the first people used it
+
+Benefits of more instruments:
+ More versatile soundscape
+ Can sound more real
+
+Use better VSTs for generating the sound
+=> More realistic sounding instruments
+
+You gotta stick a convolutional neural network in there somewhere
+Examples of music?
+
+TransProse:
+    They are hella basic.
+    like easy basic
+
+-----------
+other names
+bach 2
+neuro
+
+-----------
+mozart
+music information retrieval
+
+get info about neural network composition
+story telling in machine learning
+
+first you need to collect some statistics about good music
+
+deepdream music
+
+you can make music video with deep dream
+
+we don't want to just compose new music
+we want to convert book into music
+
+a persons perception of book 
+what would that sound like
+
+pitches need to be controlled by words
+books are not random, and have natural distributions
+part of speech etc
+
+need to use synths where timbre is controleld by something
+grittyness is density
+translation of metaphors
+translation
+
+full orchestra
+
+outer lands synth is good for ewi
+
+you could synthesize with logic like match instrument name to 
+emotion like you assign a tagged synth "comic sunrise" and that's it 
+use google word2vec to generate similar stuff you know
+
+piano is more "legit" or also full orchestra is more "legit"
+like in terms of traditional music sounds
+
+if you pick a synth, it might get labeled as to hobbyist 
+some people have certain conceptions of electronic music
+
+maybe the kind of people who would be interested in this nerdy thing would
+like the traditional 
+
+or do you think the kind of people interested in this would be into th e
+nerdy weird?
+
+I think nerdy weird, if you can pull it off
+
+many people play piano piano is versatile instrument
+
+full synth orchestra
+
+drums are good if you can pull it off
+kind of like https://www.youtube.com/watch?v=8EWz0lyQLX8 time
+by inception with drum, piano, and synth and orchestra
+

@@ -1,0 +1,26 @@
+macbeth.txt
+----------------------------------------------------
+Topic #0:
+lady macbeth,banquo,murderer,thou,night,lord,thee,shall
+MOST SIMILAR SYNTH PATCH
+(0.24539095761709145, 'divine')
+
+Topic #1:
+second witch,witch hail,macbeth,cauldron,thunder,witches,ll
+MOST SIMILAR SYNTH PATCH
+(0.1879250481622948, 'sinister')
+
+Topic #2:
+doctor,porter,knock knock,bed,gentlewoman,come,knocking knock,sir
+MOST SIMILAR SYNTH PATCH
+(0.21560965073703184, 'mellow')
+
+Topic #3:
+malcolm,macduff,ross,dunsinane,tyrant,young siward,shall,thou
+MOST SIMILAR SYNTH PATCH
+(0.4025023558778959, 'pharaoh')
+
+Topic #4:
+lady macduff,son,father,traitor,mother,dead,poor,birds
+MOST SIMILAR SYNTH PATCH
+(0.23714306588544842, 'drowned'),
