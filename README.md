@@ -13,3 +13,6 @@ Timbr was created by and is maintained by **Jessie Salas**, Machine learning sof
 * https://twitter.com/__salas__
 * https://github.com/JessieSalas
 
+##How To Contribute
+The codebase will be progressively organized and maintained by Jessie. 
+If you are interested in collaborating, feel free to contact me for more information about how things work. The files are looseley stringed together at this point, and a unified interface is of the highest priority to move forward.
